@@ -1,4 +1,4 @@
-roject Title: Optimizing Data Insights for Social Buzz
+Project Title: Optimizing Data Insights for Social Buzz
 
 Project Description:
 This project focuses on analyzing and managing large-scale unstructured data for Social Buzz, a rapidly growing social media platform with over 500 million monthly users. The goal was to identify the top 5 content categories driving user engagement and provide actionable insights to support the company's scaling efforts and upcoming IPO.
